@@ -46,7 +46,7 @@ int main() {
     scanf("%d", &pontos_turisticos1);
 
     printf("\n");
-    
+
 //Ler dados carta 2
     printf("-------Digite os dados da carta 2: -------\n");
 
